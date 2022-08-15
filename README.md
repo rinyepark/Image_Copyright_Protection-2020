@@ -1,6 +1,6 @@
 # Screen capture system for digital image copyright protection (Capstone design 2020-2)
 
-<img src="https://user-images.githubusercontent.com/109687076/184570660-d80d08d7-8703-42f8-8ac1-21d37400fc7d.jpg" width="70%">
+<img src="https://user-images.githubusercontent.com/109687076/184570660-d80d08d7-8703-42f8-8ac1-21d37400fc7d.jpg" width="60%">
 
 ## Overview   
 * Needs, problems    
