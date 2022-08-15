@@ -1,5 +1,7 @@
 # Screen capture system for digital image copyright protection (Capstone design 2020-2)
 
+<img src="https://user-images.githubusercontent.com/109687076/184570660-d80d08d7-8703-42f8-8ac1-21d37400fc7d.jpg" width="70%">
+
 ## Overview   
 * Needs, problems    
 한국저작권보호원에 따르면 모바일 앱을 통한 불법복제는 2014년부터 계속 증가하는 추세를 보이며, 2017년을 기준으로 출판 중 웹툰 분야에서의 피해액은 약 2000억원 수준에 이르렀다. 현재는 앱 자체에서 스크린 캡쳐를 방지하는 기술을 적용되어있지만 전용 앱을 사용하지 않고 웹사이트에 접근하면 자유롭게 캡쳐가 가능하다는 맹점을 가진다.
